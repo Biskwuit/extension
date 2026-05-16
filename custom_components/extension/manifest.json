@@ -1,0 +1,10 @@
+{
+  "domain": "extension",
+  "name": "Ma Première Extension",
+  "codeowners": ["@ton_pseudo_github"],
+  "config_flow": false,
+  "documentation": "https://github.com/tonuser/ton-repo",
+  "issue_tracker": "https://github.com/tonuser/ton-repo/issues",
+  "iot_class": "local_push",
+  "version": "0.1.0"
+}
